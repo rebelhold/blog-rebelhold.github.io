@@ -12,7 +12,7 @@
   site_dir = "site"
 
   # Where the output goes
-  build_dir = "build"
+  build_dir = "docs"
 
   # Pages will other extensions are considered static assets
   # and copied to build/ unchanged
